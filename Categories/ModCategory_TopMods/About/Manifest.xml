@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Manifest>
+    <identifier>InfiniteErrors.ModCategories.TopMods</identifier>
+    <version>1.0.0</version>
+    <loadBefore>
+        <li>InfiniteErrors.ModCategories.MapGen</li>
+        <li>InfiniteErrors.ModCategories.Factions</li>
+        <li>InfiniteErrors.ModCategories.Traits</li>
+        <li>InfiniteErrors.ModCategories.Androids</li>
+        <li>InfiniteErrors.ModCategories.Medical</li>
+        <li>InfiniteErrors.ModCategories.BreakingMods</li>
+        <li>InfiniteErrors.ModCategories.UI</li>
+        <li>InfiniteErrors.ModCategories.GameMechanics</li>
+        <li>InfiniteErrors.ModCategories.Items</li>
+        <li>InfiniteErrors.ModCategories.Animals</li>
+        <li>InfiniteErrors.ModCategories.Races</li>
+        <li>InfiniteErrors.ModCategories.BottomMods</li>
+    </loadBefore>
+    <showCrossPromotions>false</showCrossPromotions>
+    <manifestUri></manifestUri>
+    <downloadUri>https://github.com/Samur3i/Mod-Categories/releases/latest</downloadUri>
+</Manifest>

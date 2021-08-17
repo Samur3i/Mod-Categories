@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This patch does nothing. Just prevents empty mod errors from being logged when the mod categories are loaded. -->
+<Patch>
+    <Operation Class="PatchOperationTest">
+        <success>Always</success>
+        <xpath>Defs</xpath>
+    </Operation>
+</Patch>
