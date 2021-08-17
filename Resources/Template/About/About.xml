@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-    <name><![CDATA[<size=16><color=#D09B61FF><b>[PS_MODNAME]</b></color></size>]]></name>
+    <name><![CDATA[<size=14><color=#D09B61FF><b>[PS_MODNAME]</b></color></size>]]></name>
     <author>PS_MODAUTHOR</author>
     <url>https://github.com/Samur3i/Mod-Categories</url>
     <packageId>PS_MODPACKAGEID</packageId>
