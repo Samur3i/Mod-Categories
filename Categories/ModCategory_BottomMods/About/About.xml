@@ -5,7 +5,7 @@
     <author>Infinite Errors</author>
     <url>https://github.com/Samur3i/Mod-Categories</url>
     <packageId>InfiniteErrors.ModCategories.BottomMods</packageId>
-    <description><![CDATA[<size=20><color>=#D09B61FF>BOTTOM MODS</color></size>]]>
+    <description><![CDATA[<size=20><color=#D09B61FF>BOTTOM MODS</color></size>]]>
     
 A helpful visual category separator for manually ordering your mod list.
 Categories are based on the RimWorld of Magic mod order guide at https://rwom.fandom.com/wiki/Mod_Order_Guide
@@ -40,6 +40,5 @@ Categories are based on the RimWorld of Magic mod order guide at https://rwom.fa
         <li>InfiniteErrors.ModCategories.Items</li>
         <li>InfiniteErrors.ModCategories.Animals</li>
         <li>InfiniteErrors.ModCategories.Races</li>
-        <li>InfiniteErrors.ModCategories.BottomMods</li>
     </loadAfter>
 </ModMetaData>
