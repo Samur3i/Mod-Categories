@@ -11,6 +11,6 @@
         <li>InfiniteErrors.ModCategories.BottomMods</li>
     </loadBefore>
     <showCrossPromotions>false</showCrossPromotions>
-    <manifestUri></manifestUri>
+    <manifestUri>https://raw.githubusercontent.com/Samur3i/Mod-Categories/main/Categories/ModCategory_UI/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/Samur3i/Mod-Categories/releases/latest</downloadUri>
 </Manifest>
